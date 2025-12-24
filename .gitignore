@@ -25,3 +25,4 @@ venv/
 
 # Prisma generated (Python client code lives in `backend/app/db/prisma_client/`)
 backend/app/db/prisma_client/
+.github/copilot-instructions.md

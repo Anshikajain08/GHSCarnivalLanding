@@ -6,7 +6,7 @@ GHS Carnival is the annual college sports fest featuring multiple sports competi
 This repo is scaffolded as:
 - `frontend/`: React (Vite) + TailwindCSS (no UI implemented)
 - `backend/`: FastAPI + Prisma Client Python
-- Database: Supabase Postgres (via `DATABASE_URL`)
+- Database: Supabase Postgres (via `DATABASE_URL` + `DIRECT_URL`)
 
 ---
 
